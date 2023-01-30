@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/30 13:39:25.000.089,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/30 15:06:42.000.446,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/30 15:10:08.000.059,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/30 15:24:35.000.657,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/30 15:31:40.000.694,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/30 16:01:55.000.045,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/30 16:39:34.000.576,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/30 16:39:51.000.100,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/01/30 16:54:07.000.002,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\User\Desktop\delphi\Exceldelphi\execeldelphi.dfm</Transaction>
+    <Transaction>2023/01/30 16:54:07.000.002,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\User\Desktop\delphi\Exceldelphi\execeldelphi.pas</Transaction>
+    <Transaction>2023/01/30 16:57:21.000.248,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\User\Desktop\delphi\Exceldelphi\Unit2.pas</Transaction>
+    <Transaction>2023/01/30 16:57:21.000.248,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\User\Desktop\delphi\Exceldelphi\Unit2.dfm</Transaction>
+    <Transaction>2023/01/30 16:57:39.000.517,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\User\Desktop\delphi\Exceldelphi\Projectexcel.dproj</Transaction>
+    <Transaction>2023/01/30 16:59:28.000.564,=C:\Users\User\Desktop\delphi\Exceldelphi\Unit1.pas</Transaction>
+    <Transaction>2023/01/30 17:00:10.000.554,C:\Users\User\Desktop\delphi\Exceldelphi\Unit1.pas=C:\Users\User\Desktop\delphi\Exceldelphi\Unitexcel2.pas</Transaction>
+    <Transaction>2023/01/30 17:00:10.000.554,C:\Users\User\Desktop\delphi\Exceldelphi\Unit1.dfm=C:\Users\User\Desktop\delphi\Exceldelphi\Unitexcel2.dfm</Transaction>
+    <Transaction>2023/01/30 17:34:59.241,C:\Users\User\Desktop\delphi\Exceldelphi\Unit2.pas=</Transaction>
+    <Transaction>2023/01/30 17:35:06.162,C:\Users\User\Desktop\delphi\Exceldelphi\Unitexcel2.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
